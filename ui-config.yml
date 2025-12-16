@@ -20,5 +20,5 @@ tabs:
   - name: ">_Controller-Terminal"
     url: /wetty_controller
   - name: "OCP"
-    url: "https://console-openshift-console.${DOMAIN}"
+    url: "https://console-openshift-console.${domain}"
 
